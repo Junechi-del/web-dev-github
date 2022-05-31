@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 This is my another commit!
 and here we go with commit #2
+=======
+This is my first commit!
+and here we go with commit #2
+Henlo
+>>>>>>> feature
